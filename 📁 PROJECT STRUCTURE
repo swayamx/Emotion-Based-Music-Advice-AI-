@@ -1,0 +1,5 @@
+emotion-ai/
+│
+├── app.py
+├── model.py
+└── data.json
