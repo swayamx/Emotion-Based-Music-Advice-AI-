@@ -1,5 +1,6 @@
 emotion-ai/
 │
-├── app.py
-├── model.py
-└── data.json
+├── train_model.py   ← train AI
+├── model.pkl        ← saved model
+├── app.py           ← backend
+└── index.html       ← frontend
